@@ -150,7 +150,3 @@ let nuevoEstado = {
     ...estadoApp,
     session: 4
 }
-
-
-
-
